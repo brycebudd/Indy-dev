@@ -3,3 +3,6 @@
 
 #dev environment files
 .bash_history
+
+# PyCache
+__pycache__
